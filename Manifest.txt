@@ -1,0 +1,8 @@
+.autotest
+CHANGELOG.rdoc
+README.rdoc
+Manifest.txt
+Rakefile
+lib/requencer.rb
+spec/requencer_spec.rb
+spec/spec_helper.rb
