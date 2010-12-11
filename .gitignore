@@ -1,1 +1,9 @@
 doxygen
+coverage
+rdoc
+doc
+.yardoc
+.bundle
+pkg
+lib/requencer/*.so
+tmp

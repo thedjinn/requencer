@@ -1,4 +1,5 @@
-/** @file requencer.c 
+/** 
+ * @file requencer.c 
  *
  * \brief Requencer Ruby C extension.
  *
